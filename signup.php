@@ -59,6 +59,7 @@ if(@$_POST['formSubmit'] == "Submit")
 
 <div class="site__container">
     <h1 style="text-align: center; font-size: 70px;">Sign up</h1>
+    <h3 style="text-align: center; font-size: 20px;">By signing up, you are agreeing to subscribing to weekly newsletter. </h3>
     <div class="grid__container">
 
         <form method="post" class="form form--login">
